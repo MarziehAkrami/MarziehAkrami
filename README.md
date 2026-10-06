@@ -27,11 +27,11 @@ a complicated feature into a simple one.
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [devflow-api](https://github.com/OwlTeam/devflow-api) | REST API for an open-source team task manager | Django, DRF, PostgreSQL, Celery |
-| [docmind](https://github.com/OwlTeam/docmind) | Vector search and RAG over documents | pgvector, embeddings |
-| [market-pulse](https://github.com/OwlTeam/market-pulse) | Data pipeline and ETL over job postings | Python, PostgreSQL |
+| [devflow-api](https://github.com/OwlGuild/devflow-api) | REST API for an open-source team task manager | Django, DRF, PostgreSQL, Celery |
+| [docmind](https://github.com/OwlGuild/docmind) | Vector search and RAG over documents | pgvector, embeddings |
+| [market-pulse](https://github.com/OwlGuild/market-pulse) | Data pipeline and ETL over job postings | Python, PostgreSQL |
 
-Both maintainers of [OwlTeam](https://github.com/OwlTeam).
+Both maintainers of [OwlGuild](https://github.com/OwlGuild).
 
 ## Currently
 
