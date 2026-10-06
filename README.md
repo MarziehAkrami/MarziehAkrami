@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Marzieh Akrami</h1>
+<p align="center">
+  <strong>Backend Developer</strong> &middot; Physics Student at Isfahan University of Technology<br/>
+  Based in Isfahan, Iran
+</p>
 
-<!--
-**MarziehAkrami/MarziehAkrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/338220941?v=4" width="160" height="160" style="border-radius:50%; object-fit:cover" alt="Marzieh Akrami">
+</p>
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a backend developer and physics student at Isfahan University of Technology (IUT). I build
+APIs, data models and background jobs, and I like the part where a well-shaped database turns
+a complicated feature into a simple one.
+
+## Toolbox
+
+| Category | Items |
+| --- | --- |
+| Languages | Python, SQL, Bash |
+| Frameworks / Libraries | Django, Django REST Framework |
+| Data | PostgreSQL, pgvector, Redis, Celery |
+| Tools & Platforms | Docker, Git, GitHub, CI |
+
+## Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [devflow-api](https://github.com/OwlTeam/devflow-api) | REST API for an open-source team task manager | Django, DRF, PostgreSQL, Celery |
+| [docmind](https://github.com/OwlTeam/docmind) | Vector search and RAG over documents | pgvector, embeddings |
+| [market-pulse](https://github.com/OwlTeam/market-pulse) | Data pipeline and ETL over job postings | Python, PostgreSQL |
+
+Both maintainers of [OwlTeam](https://github.com/OwlTeam).
+
+## Currently
+
+- **Building:** Auth, permissions and the task model behind DevFlow
+- **Learning:** Postgres query planning, `pgvector`, load testing
+- **Reading:** Database internals and API design notes
+
+## Contact
+
+- **Email:** [MarziehAkrami.Main@gmail.com](mailto:MarziehAkrami.Main@gmail.com)
+- **GitHub:** [@MarziehAkrami](https://github.com/MarziehAkrami)
