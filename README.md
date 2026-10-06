@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/338220941?v=4" width="160" height="160" style="border-radius:50%; object-fit:cover" alt="Marzieh Akrami">
+  <img width="958" height="1280" alt="photo_2026-10-05_18-47-45" src="https://github.com/user-attachments/assets/86e6a926-4724-4dd2-86e1-ae6814fbd986" />
 </p>
 
 ## About
